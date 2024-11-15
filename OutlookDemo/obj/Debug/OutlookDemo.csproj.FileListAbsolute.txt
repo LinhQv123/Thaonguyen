@@ -1,0 +1,187 @@
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.pdb
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\bin\Debug\Guna.UI2.dll
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.exe
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.pdb
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Chat.resources
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Inbox.resources
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csprojAssemblyReference.cache
+D:\UI\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+D:\UI\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe
+D:\UI\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.pdb
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.AssemblyReference.cache
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.SuggestedBindingRedirects.cache
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.exe
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.pdb
+D:\UI\OutlookDemo\OutlookDemo\bin\Debug\Guna.UI2.dll
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlGiangVien.resources
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.ActionUserForm.resources
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlLuongGV.resources
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.FormLogin.resources
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.Formbuilding.resources
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClass.resources
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClassSection.resources
+D:\UI\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormSchedule.resources
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\bin\Debug\OutlookDemo.exe
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\bin\Debug\OutlookDemo.pdb
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\bin\Debug\Guna.UI2.dll
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.AssemblyReference.cache
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.ActionUserForm.resources
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.Formbuilding.resources
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClass.resources
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClassSection.resources
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormSchedule.resources
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.FormLogin.resources
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlGiangVien.resources
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlLuongGV.resources
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.exe
+D:\Quản Lý Giảng Viên\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.pdb
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\bin\Debug\OutlookDemo.exe
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\bin\Debug\OutlookDemo.pdb
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\bin\Debug\Guna.UI2.dll
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.AssemblyReference.cache
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.ActionUserForm.resources
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.Formbuilding.resources
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClass.resources
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClassSection.resources
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormSchedule.resources
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.FormLogin.resources
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlGiangVien.resources
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlLuongGV.resources
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.exe
+D:\Quản Lý Giảng Viên.DATN\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.pdb
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\bin\Debug\OutlookDemo.exe
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\bin\Debug\OutlookDemo.pdb
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\bin\Debug\Guna.UI2.dll
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.AssemblyReference.cache
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.ActionUserForm.resources
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.Formbuilding.resources
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClass.resources
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClassSection.resources
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormSchedule.resources
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.FormLogin.resources
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlGiangVien.resources
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlLuongGV.resources
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.exe
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.pdb
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.ResolveComReference.cache
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\bin\Debug\EPPlus.dll
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\bin\Debug\EPPlus.Interfaces.dll
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\bin\Debug\EPPlus.System.Drawing.dll
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\bin\Debug\EPPlus.xml
+D:\ĐATN.Chính\DoAnQLGV\OutlookDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DoAnQLGV\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+D:\DoAnQLGV\OutlookDemo\bin\Debug\OutlookDemo.exe
+D:\DoAnQLGV\OutlookDemo\bin\Debug\OutlookDemo.pdb
+D:\DoAnQLGV\OutlookDemo\bin\Debug\EPPlus.dll
+D:\DoAnQLGV\OutlookDemo\bin\Debug\EPPlus.Interfaces.dll
+D:\DoAnQLGV\OutlookDemo\bin\Debug\EPPlus.System.Drawing.dll
+D:\DoAnQLGV\OutlookDemo\bin\Debug\Guna.UI2.dll
+D:\DoAnQLGV\OutlookDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DoAnQLGV\OutlookDemo\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DoAnQLGV\OutlookDemo\bin\Debug\EPPlus.xml
+D:\DoAnQLGV\OutlookDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.AssemblyReference.cache
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.ResolveComReference.cache
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.ActionUserForm.resources
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.Formbuilding.resources
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClass.resources
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClassSection.resources
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormSchedule.resources
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.FormLogin.resources
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlGiangVien.resources
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlLuongGV.resources
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.exe
+D:\DoAnQLGV\OutlookDemo\obj\Debug\OutlookDemo.pdb
+D:\DoAnQLGV cuoi\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+D:\DoAnQLGV cuoi\OutlookDemo\bin\Debug\OutlookDemo.exe
+D:\DoAnQLGV cuoi\OutlookDemo\bin\Debug\OutlookDemo.pdb
+D:\DoAnQLGV cuoi\OutlookDemo\bin\Debug\EPPlus.dll
+D:\DoAnQLGV cuoi\OutlookDemo\bin\Debug\EPPlus.Interfaces.dll
+D:\DoAnQLGV cuoi\OutlookDemo\bin\Debug\EPPlus.System.Drawing.dll
+D:\DoAnQLGV cuoi\OutlookDemo\bin\Debug\Guna.UI2.dll
+D:\DoAnQLGV cuoi\OutlookDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DoAnQLGV cuoi\OutlookDemo\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DoAnQLGV cuoi\OutlookDemo\bin\Debug\EPPlus.xml
+D:\DoAnQLGV cuoi\OutlookDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.csproj.AssemblyReference.cache
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.csproj.ResolveComReference.cache
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.ActionUserForm.resources
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.Formbuilding.resources
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClass.resources
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClassSection.resources
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormSchedule.resources
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.FormLogin.resources
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlGiangVien.resources
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlLuongGV.resources
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.exe
+D:\DoAnQLGV cuoi\OutlookDemo\obj\Debug\OutlookDemo.pdb
+D:\DoAnQLGV Chính Thức\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+D:\DoAnQLGV Chính Thức\OutlookDemo\bin\Debug\OutlookDemo.exe
+D:\DoAnQLGV Chính Thức\OutlookDemo\bin\Debug\OutlookDemo.pdb
+D:\DoAnQLGV Chính Thức\OutlookDemo\bin\Debug\EPPlus.dll
+D:\DoAnQLGV Chính Thức\OutlookDemo\bin\Debug\EPPlus.Interfaces.dll
+D:\DoAnQLGV Chính Thức\OutlookDemo\bin\Debug\EPPlus.System.Drawing.dll
+D:\DoAnQLGV Chính Thức\OutlookDemo\bin\Debug\Guna.UI2.dll
+D:\DoAnQLGV Chính Thức\OutlookDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DoAnQLGV Chính Thức\OutlookDemo\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DoAnQLGV Chính Thức\OutlookDemo\bin\Debug\EPPlus.xml
+D:\DoAnQLGV Chính Thức\OutlookDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.csproj.AssemblyReference.cache
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.csproj.ResolveComReference.cache
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.ActionUserForm.resources
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.Formbuilding.resources
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClass.resources
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormClassSection.resources
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.DiaLog.FormSchedule.resources
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.FormLogin.resources
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlGiangVien.resources
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UserControlLuongGV.resources
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.exe
+D:\DoAnQLGV Chính Thức\OutlookDemo\obj\Debug\OutlookDemo.pdb
